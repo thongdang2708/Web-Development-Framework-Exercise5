@@ -5,7 +5,10 @@ Web Development Framework Exercise 5 (Calling Node from React)
 
 Install npm i --save concurrently
 
+Run by: npm run dev
+
 Set in a package.json as in a script as below:
+
 {
   "name": "exercisefourframework",
   "version": "1.0.0",
